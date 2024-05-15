@@ -1,0 +1,114 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "imie": "Anna",
+      "nazwisko": "Kowalska",
+      "nick": "Anka123",
+      "data_urodzenia": "1990-05-10",
+      "miasto": "Warszawa",
+      "godziny_pracy": 8,
+      "email": "anna.kowalska@example.com",
+      "telefon": "+48 123 456 789"
+    },
+    {
+      "id": 2,
+      "imie": "Piotr",
+      "nazwisko": "Nowak",
+      "nick": "piotr94",
+      "data_urodzenia": "1994-08-22",
+      "miasto": "Kraków",
+      "godziny_pracy": 12,
+      "email": "piotr.nowak@example.com",
+      "telefon": "+48 987 654 321"
+    },
+    {
+      "id": 3,
+      "imie": "Maria",
+      "nazwisko": "Lis",
+      "nick": "marilis",
+      "data_urodzenia": "1985-11-15",
+      "miasto": "Gdańsk",
+      "godziny_pracy": 16,
+      "email": "maria.lis@example.com",
+      "telefon": "+48 555 666 777"
+    },
+    {
+      "id": 4,
+      "imie": "Tomasz",
+      "nazwisko": "Wójcik",
+      "nick": "tomcio77",
+      "data_urodzenia": "1982-03-03",
+      "miasto": "Łódź",
+      "godziny_pracy": 16,
+      "email": "tomasz.wojcik@example.com",
+      "telefon": "+48 111 222 333"
+    },
+    {
+      "id": 5,
+      "imie": "Katarzyna",
+      "nazwisko": "Zając",
+      "nick": "kasia88",
+      "data_urodzenia": "1988-09-20",
+      "miasto": "Wrocław",
+      "godziny_pracy": 8,
+      "email": "katarzyna.zajac@example.com",
+      "telefon": "+48 444 555 666"
+    },
+    {
+      "id": 6,
+      "imie": "Andrzej",
+      "nazwisko": "Duda",
+      "nick": "andrzej_d",
+      "data_urodzenia": "1975-07-12",
+      "miasto": "Katowice",
+      "godziny_pracy": 12,
+      "email": "andrzej.duda@example.com",
+      "telefon": "+48 777 888 999"
+    },
+    {
+      "id": 7,
+      "imie": "Ewa",
+      "nazwisko": "Włodarczyk",
+      "nick": "ewcia82",
+      "data_urodzenia": "1982-04-25",
+      "miasto": "Poznań",
+      "godziny_pracy": 16,
+      "email": "ewa.wlodarczyk@example.com",
+      "telefon": "+48 000 111 222"
+    },
+    {
+      "id": 8,
+      "imie": "Michał",
+      "nazwisko": "Adamczyk",
+      "nick": "michu75",
+      "data_urodzenia": "1975-01-30",
+      "miasto": "Szczecin",
+      "godziny_pracy": 16,
+      "email": "michal.adamczyk@example.com",
+      "telefon": "+48 999 888 777"
+    },
+    {
+      "id": 9,
+      "imie": "Magdalena",
+      "nazwisko": "Kamińska",
+      "nick": "magda_k",
+      "data_urodzenia": "1992-06-18",
+      "miasto": "Bydgoszcz",
+      "godziny_pracy": 12,
+      "email": "magdalena.kaminska@example.com",
+      "telefon": "+48 333 222 111"
+    },
+    {
+      "id": 10,
+      "imie": "Grzegorz",
+      "nazwisko": "Lewandowski",
+      "nick": "greg83",
+      "data_urodzenia": "1983-12-05",
+      "miasto": "Gdynia",
+      "godziny_pracy": 8,
+      "email": "mgrzegorz.lewandowski@example.com",
+      "telefon": "+48 123 321 123"
+    }
+  ]
+}
